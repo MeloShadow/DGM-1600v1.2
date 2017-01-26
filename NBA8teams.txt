@@ -1,0 +1,33 @@
+Random NBA teams, best players in terms of PPG
+
+Boston’s best player
+Isaiah Thomas
+28.7 PPG
+
+Chicago’s best player
+Jimmy Butler
+24.8 PPG
+
+Utah’s best player
+Gordon Hayward
+22 PPG
+
+Portland’s Best player
+Damian Lillard 
+26.1 PPG
+
+Oklahoma city’s Best player
+Russell Westbrook 
+30.6 PPG
+
+New Orlean’s Best Player
+Anthony Davis
+28.8 PPG
+
+Minnesota’s Best Player
+Karl Anthony Towns
+22 PPG
+
+New York’s Best Player
+Carmelo Anthony
+22 PPG
