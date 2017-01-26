@@ -25,7 +25,7 @@ public class changeColor : MonoBehaviour {
 		if (Input.GetKeyDown(KeyCode.Backspace))	{
 			GetComponent<Renderer> ().material.color = Color.white;
 		}
-		// Make the color Yellow
+		//Make the color Yellow
 		if (Input.GetKeyDown(KeyCode.Escape))
 		{
 			GetComponent<Renderer> ().material.color = Color.yellow;
