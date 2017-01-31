@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Rotate : MonoBehaviour {
-	public float speed;
+	public float speed = 1.0f;
 	// Use this for initialization
 	void Start () {
 		speed = Random.Range(.5f, 2.0f);
