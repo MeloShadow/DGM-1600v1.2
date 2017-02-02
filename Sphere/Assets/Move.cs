@@ -4,8 +4,9 @@ using UnityEngine;
 
 public class Move : MonoBehaviour {
 	public float horizontalSpeed = .5f;
+	//Adding float will allow for a decimal and horizontalSpeed will be the name for it.
 	public float verticalSpeed = .2f;
-
+	//Same thing for this line
 
 
 	// Update is called once per frame
