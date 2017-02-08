@@ -35,5 +35,9 @@ public class VariablesandOperators : MonoBehaviour {
 		//Find the area of a Triangle
 		float areaTriangle = (tbase * theight) / 2;
 		print ("The Area of the Triangle with a base length of " + tbase + " and a height of " + theight + " is " + areaTriangle);
+
+		//test
+		float testNumberOne = 2 % height;
+		print ("testing 1, 2, 3,... " + testNumberOne);
 	}
 }
