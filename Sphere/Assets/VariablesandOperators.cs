@@ -39,5 +39,7 @@ public class VariablesandOperators : MonoBehaviour {
 		//test
 		float testNumberOne = 2 % height;
 		print ("testing 1, 2, 3,... " + testNumberOne);
+	
+	
 	}
 }
